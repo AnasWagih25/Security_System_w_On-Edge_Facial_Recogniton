@@ -71,8 +71,8 @@ The TFT shows **entry status** and the detected person (`Anas` or `Marawan` by d
 
 **3D Enclosure Snapshots:**
 
-![Enclosure Front](./Snaps/en1.png)  
-![Enclosure Side](./Snaps/En2.png)
+![Enclosure Front](./Snaps/en1.jpg)  
+![Enclosure Side](./Snaps/En2.jpg)
 
 ---
 
