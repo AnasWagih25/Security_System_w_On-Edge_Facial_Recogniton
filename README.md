@@ -67,7 +67,7 @@ The TFT shows **entry status** and the detected person (`Anas` or `Marawan` by d
 ## Schematic & Enclosure Snapshots
 
 **Wiring Schematic:**  
-[View Security System Schematic](./Security_System_Schematic.pdf)
+![Schematic](./Security_System_Schematic.png)  
 
 **3D Enclosure Snapshots:**
 
