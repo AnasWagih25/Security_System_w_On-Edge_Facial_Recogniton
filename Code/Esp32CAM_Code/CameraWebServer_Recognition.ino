@@ -22,8 +22,8 @@
 #define UART_RX_PIN 3
 HardwareSerial SerialPico(1);  // Use UART1 for Pico communication
 
-const char* ssid = "Anas Wagih 2G";
-const char* password = "Anas1990";
+const char* ssid = "Your Network SSID"; //Change to the network name
+const char* password = "Password"; //Network Password
 
 void startCameraServer();
 void enableFaceDetection();
